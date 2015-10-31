@@ -1,8 +1,8 @@
 {
-  "name": "bootswatch",
-  "description": "Bootswatch is a collection of themes for Bootstrap.",
+  "name": "Remugio - bootswatch",
+  "description": "Bootswatch is a collection of themes for Bootstrap. Edited by Remugio for compiling less in themes.",
   "version": "3.3.5",
-  "author": "Thomas Park",
+  "author": "Fred Turkington",
   "homepage": "http://bootswatch.com",
   "license": "MIT",
   "repository": {
